@@ -10,7 +10,7 @@
 - Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
-- Install this script via Magisk app or KernelSU app or Kitsune Mask app or Apatch app or via Recovery if Magisk or Kitsune Mask is installed.
+- Install this script https://devuploads.com/tv5hs19ug59y via Magisk app or KernelSU app or Kitsune Mask app or Apatch app or via Recovery if Magisk or Kitsune Mask is installed.
 - If you want to uninstall, just delete /data/adb/post-fs-data.d/bmr-pfsd.sh file.
 
 ## Support & Bug Report
