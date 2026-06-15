@@ -12,7 +12,7 @@ v0.1
 - Initial release
 
 ## Requirements
-- Magisk or Kitsune Mask or KernelSU or Apatch installed
+Magisk or Kitsune Mask or KernelSU or Apatch installed
 
 ## Installation Guide & Download Link
 - Install this script https://devuploads.com/tv5hs19ug59y via Magisk app or KernelSU app or Kitsune Mask app or Apatch app or via Recovery if Magisk or Kitsune Mask is installed.
