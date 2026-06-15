@@ -6,6 +6,11 @@
 - bmr-pfsd.sh is a script that checks modules folder SE context in /data/adb/modules/. If it doesn't match u:object_r:system_file:s0, then the script will remove the module by creating an empty 'remove' file to the module folder.
 - Why is this script needed? In Magisk, when device bootloops, all folders and files SE context in /data/adb/modules/ some how are changed to u:object_r:adb_data_file:s0 which causes data corruption if modules contains APK file and causes the module to not work properly due to the wrong SE context. So, removing the broken modules before that happens is the right thing to do.
 
+## Changelog
+
+v0.1
+- Initial release
+
 ## Requirements
 - Magisk or Kitsune Mask or KernelSU or Apatch installed
 
